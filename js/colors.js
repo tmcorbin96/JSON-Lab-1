@@ -13,10 +13,10 @@ var colorsArray : {
             "blue":"62"
         },
         {
-            name:"red",
-            red:"192",
-            green:"46",
-            blue:"35"
+            "name":"red",
+            "red":"192",
+            "green":"46",
+            "blue":"35"
         }
         {
             "name":"blue",
